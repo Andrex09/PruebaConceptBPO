@@ -1,0 +1,22 @@
+body {
+    background-color: #f8f9fa;
+}
+.card {
+    transition: transform 0.2s;
+}
+.card:hover {
+    transform: scale(1.02);
+}
+.favorite {
+    color: gold;
+}
+
+.btn-green {
+    background-color: #1c59c9;
+    border: none;
+    color: #000;
+}
+.btn-green:hover {
+    background-color: #5283e4;
+}
+
