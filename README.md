@@ -5,7 +5,7 @@
 - Se utilizó PHP como backend únicamente para servir el HTML.
 - Se integró Bootstrap para estilos rápidos, modales y responsividad.
 - El consumo de la API y lógica de interacción se manejó con JavaScript Vanila.
-- Los favoritos se hacen usando `localStorage` ya que esto.
+- Los favoritos se hacen usando `localStorage` ya que esto permite guardar los datos de favoritos y no se borran si se recarga la pagina.
 
 ## Diseño de Base de Datos para "Favoritos"
 
